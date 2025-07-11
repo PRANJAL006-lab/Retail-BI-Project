@@ -1,0 +1,16 @@
+RetailDashboard/
+├── data/
+│   ├── transactions.csv
+│   ├── products.csv
+│   └── returns.csv
+│
+├── dashboard/
+│   ├── app.py
+│   └── utils.py
+│
+├── assets/
+│   └── custom.css
+│
+├── screenshots/
+├── README.md
+└── requirements.txt
